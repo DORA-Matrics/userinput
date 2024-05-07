@@ -1,4 +1,4 @@
-name: Convert Input to Capital
+name: Convert Input to Capitall
 
 on:
   workflow_dispatch:
